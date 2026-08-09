@@ -2,21 +2,12 @@
 
 # Hi, I'm Youki 👋
 
-
-专注于实用工具与 Web 应用开发，也在探索 AI 应用和自动化。
-
 [个人网站](https://youki.me) · [我的项目](https://github.com/youki258?tab=repositories)
 
 </div>
 
 ---
 
-### 👨‍💻 关于我
-
-- 🛠️ 喜欢从真实需求出发，做简单、可靠、真正可用的产品
-- 💻 使用 **Java / Spring Boot**、**TypeScript / React** 和 **Python / Flask** 构建应用
-- 🤖 正在探索 AI 应用、自动化工具与更高效的开发方式
-- 📝 在 [youki.me](https://youki.me) 记录项目、技术与日常思考
 
 ### 🧰 技术栈
 
@@ -41,8 +32,6 @@
 - **[Sorting Visualizer](https://github.com/youki258/sorting-visualizer-java)**<br>
   基于 Java 17 和 JavaFX 的排序算法可视化与性能比较工具。
 
-- **[个人博客](https://github.com/youki258/youki258.github.io)**<br>
-  用来记录项目、技术和日常思考；也可以直接访问 [youki.me](https://youki.me)。
 
 ### 📊 GitHub 统计
 
